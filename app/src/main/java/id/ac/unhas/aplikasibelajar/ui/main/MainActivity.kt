@@ -11,6 +11,7 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import id.ac.unhas.aplikasibelajar.R
 import id.ac.unhas.aplikasibelajar.db.note.Note
+import id.ac.unhas.aplikasibelajar.db.ui.main.NoteViewModel
 import kotlinx.android.synthetic.main.activity_main.*
 
 
